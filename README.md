@@ -8,6 +8,7 @@ node.js express sequelize CRUD API
 
 ``/api/user/all`` GET
 
+
 ``/api/post`` GET, POST, DELETE
 
 ``/api/post/:id`` GET, PUT, DELETE
